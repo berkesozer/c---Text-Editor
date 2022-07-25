@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/berkesozer/Desktop/DERSLER/c++ lab1 solutions/c++ Text Editor'
+g++ main.cpp -o main -Wall -Werror -g
+./main
+make: Leaving directory `/Users/berkesozer/Desktop/DERSLER/c++ lab1 solutions/c++ Text Editor'
+ 
